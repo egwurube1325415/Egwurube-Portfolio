@@ -32,8 +32,9 @@ video {
 }
 
 .navbar {
-  background-color: #6a5acd;
+  background-color: #BE93D4;
   opacity: 0.75;
+  position: fixed;
 }
 
 .font-primary {
