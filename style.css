@@ -190,9 +190,9 @@ Project section
 
 }
 
-#project .project-video video {
+video.project-video {
   width: 100%;
-  height: 270px;
+  height: 240px;
 }
 
 @media screen and (max-width: 1000px) {
